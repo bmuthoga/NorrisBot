@@ -1,0 +1,15 @@
+{
+  "name": "norrisbot",
+  "version": "1.0.0",
+  "description": "A bot that terminates other bots",
+  "main": "lib/norrisbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "slackbots": "^0.3.0",
+    "sqlite3": "^3.1.13"
+  }
+}
